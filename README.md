@@ -1,7 +1,7 @@
 # bs-richpresence
 A FiveM server RichPresence for Discord
 
-![Screenshot of the rich presence](https://imgur.com/a/hWJS9jF)
+![Screenshot of the rich presence](https://imgur.com/f4XFDtU)
 
 ## Installation
 1. Drop this script into your resources folder.
