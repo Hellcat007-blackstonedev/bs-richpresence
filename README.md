@@ -7,8 +7,9 @@ A FiveM server RichPresence for Discord
 3. Restart your server.
 
 ## Configuration
-The config.lua file include commented explanations of each config option.  
-Inside the config file also has toggleable data that gets displayed in your RichPresence.  
+- The config.lua file include commented explanations of each config option.  
+- Inside the config file also has toggleable data that gets displayed in your RichPresence.  
+
 Be aware also that Discord buttons are not viewable to your own account displaying the RichPresence. If you like to see if your buttons are in fact working, you either need an alt account or get your friend to join your server and then you'll see the buttons. I don't know why Discord has set it up this way.
 
 ## Optional Discord Developer Application
