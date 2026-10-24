@@ -21,3 +21,14 @@ Next, go to the Rich Presence side menu open click on Art Assets then upload you
 
 ## Need help?
 You can join our development Discord here: https://discord.gg/dw5KbvB9MJ
+
+
+## Licence
+
+Copyright © 2026 Blackstone Development. All rights reserved.
+
+This software is provided free of charge for use on FiveM servers. Private modifications are permitted.
+
+**Redistribution, resale, repackaging and unauthorised publication of the source code are prohibited.**
+
+See [LICENSE.md](LICENSE.md) for the full Blackstone Development Software Licence (BDSL) terms.
